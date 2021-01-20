@@ -36,11 +36,10 @@ header nav {
 
 header nav ul li {
     display: inline;
-    padding: 30px;
 }
 
 header nav ul li a {
-    margin: 0 30 0px;
+    margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;'6'
 }
